@@ -1,0 +1,15 @@
+{
+	"name": "28032005datafactoryazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "koreacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fbc18032-550b-4fcc-ae28-9e4d55f908d6",
+		"tenantId": "f21bc656-3d21-4f24-86c4-a64890f57fe1"
+	}
+}
